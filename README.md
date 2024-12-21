@@ -1,6 +1,6 @@
 # IfElse
 Sayı 1 için ekran çıktısı.
-![Sayi 1 icin](https://github.com/ugurarican/IfElse/blob/master/2.png)
+![Sayi 1 icin](https://github.com/ugurarican/IfElse/blob/master/1.png)
 
 Sayı 2 için ekran çıktısı.
 ![Sayi 2 icin](https://github.com/ugurarican/IfElse/blob/master/2.png)
